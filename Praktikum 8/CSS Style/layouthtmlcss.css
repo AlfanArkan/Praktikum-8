@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+}
+
+header, article, aside, nav, footer {
+    padding: 20px;
+}
+
+.content {
+    display: flex;
+    height: 77vh;
+}
+header {
+    background-color: chocolate;
+}
+article {
+    background-color: burlywood;
+    width: 50%;
+}
+aside {
+    background-color: grey;
+    width: 25%;
+}
+nav {
+    background-color: bisque;
+    width: 25%;
+}
+footer {
+    background-color: aqua;
+}
